@@ -23,7 +23,7 @@ Plot a second data set on your map to illustrate the relationship between tecton
 
 ![](map.png)
 
-## Copyright
+---
+###### Copyright
 
 © 2019 realGenius, Inc.
-
